@@ -10,7 +10,7 @@
 <li>Javascript </li>
 <li> Vue.js </li>
 <li> CSS</li>
-<li> Bootsrap </li>
+<li> Bootstrap </li>
 <li>HTML</li>
 </ul>
 

@@ -8,7 +8,7 @@
 <h2>Skills</h2>
 <ul>
 <li>PHP</li>
-<li>MySQL <style color="blue">(loading...)<style></li>
+<li>MySQL <style color="blue">(loading...)</style></li>
 <li>Javascript </li>
 <li> Vue.js </li>
 <li> CSS</li>

@@ -7,9 +7,8 @@
 <p>👯 Available for collaborations and sharing insights</p>
 <h2>Skills</h2>
 <ul>
-
-<li>MySQL 📊</li>
  <li>PHP 👩‍❤️‍👨</li>
+ <li>MySQL 📊</li>
 <li>Javascript 🧩</li>
 <li> Vue.js 🌞</li>
 <li> CSS 🎁</li>

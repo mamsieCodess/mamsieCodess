@@ -8,12 +8,12 @@
 <h2>Skills</h2>
 <ul>
 
-<li>MySQL (loading..)</li>
- <li>PHP</li>
-<li>Javascript </li>
-<li> Vue.js </li>
-<li> CSS</li>
-<li> Bootstrap </li>
-<li>HTML</li>
+<li>MySQL 📊</li>
+ <li>PHP 👩‍❤️‍👨</li>
+<li>Javascript 🧩</li>
+<li> Vue.js 🌞</li>
+<li> CSS 🎁</li>
+<li> Bootstrap 🎈</li>
+<li>HTML🏠</li>
 </ul>
 

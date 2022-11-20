@@ -1,4 +1,4 @@
-<h2>Hi there👋I am Mamo and I regret not learning PHP sooner</h2>
+<h2>Hi there👋I am Mamo and I regret not learning PHP sooner. What about you?</h2>
 <p> - Currently based in Gauteng, South Africa</p>
 <p>🔭I am looking for an internship or my first junior web developer role</p>
 <p> - I am a Software Development student at CodeSpace</p>

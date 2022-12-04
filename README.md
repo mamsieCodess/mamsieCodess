@@ -11,9 +11,9 @@
  <li>PHP 👩‍❤️‍👨</li>
  <li>MySQL </li>
 <li>Javascript </li>
-<li> Vue.js </li>
 <li> CSS </li>
 <li> Bootstrap </li>
+ <li> Vue.js (in progress) </li>
 <li>HTML</li>
 </ul>
 

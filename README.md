@@ -1,4 +1,4 @@
-<h2>Hi there👋I am Mamo and I think I might be in love with CSS👀..How are you?</h2>
+<h2>Hi there👋I am Mamo and I think I might be in love with CSS and PHP👀..How are you?</h2>
 <p> - Currently based in Gauteng, South Africa</p>
 <p>🔭I am looking for an internship or my first junior web developer role</p>
 <p> - I am a Software Development student at CodeSpace</p>
@@ -11,7 +11,7 @@
  <li>PHP 👩‍❤️‍👨</li>
  <li>MySQL </li>
 <li>Javascript </li>
-<li> CSS </li>
+<li> CSS 👩‍❤️‍👨</li>
 <li> Bootstrap </li>
  <li> Vue.js (in progress) </li>
 <li>HTML</li>

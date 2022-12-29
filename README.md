@@ -3,7 +3,6 @@
 <p> - Education: CodeSpace Academy - Woodstock, Cape Town </p>
 <p> - Currently working on an e-commerce online store application</p>
 <p> - Available for collaborations and sharing insights</p>
-<p>📧mamokgolwanem@gmail.com</p>
 
 <h2>Skills</h2>
 <ul>

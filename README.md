@@ -1,4 +1,4 @@
-<h2>Hi there👋I am Mamo and I think I might be in love with CSS and PHP👀.. How are you?</h2>
+<h2>Hi there👋I am Mamo and I think I might be in love with PHP👀.. How are you?</h2>
 <p> - Education: CodeSpace Academy - Woodstock, Cape Town </p>
 <p> - Currently working on an e-commerce online store application</p>
 <p> - Available for collaborations and sharing insights</p>

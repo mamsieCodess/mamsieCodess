@@ -11,6 +11,7 @@
 <li> CSS</li>
 <li> Bootstrap </li>
  <li> Vue.js (in progress) </li>
+  <li> Laravel (in progress) </li>
 <li>HTML</li>
 </ul>
 
